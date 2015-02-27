@@ -24,7 +24,7 @@ namespace GitFlowTeste
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Adeus Mundo cruelll!");
+            MessageBox.Show("Adeus Mundo cruel!");
         }
     }
 }
